@@ -1,0 +1,78 @@
+HOTEL_NAME,STARS,TOTAL_REVIEWS,EXCELLENT,VERY_GOOD,AVERAGE,POOR,TERRIBLE,FAMILY,COUPLE,SOLO,BUSINESS,LOCATION,SLEEPQ,ROOM,SERVICE,VALUE,CLEANLINESS
+Seaport Boston Hotel,4.5,"2,539 reviews","1,872",505,98,33,31,461,550,108,"1,103",4.5,4.5,4.5,4.5,4.5,5
+Hyatt Boston Harbor,4,"1,167 reviews",479,424,164,67,33,239,335,105,326,4.5,4,4,4.5,4,4.5
+Courtyard by Marriott Boston Copley Square,4.5,961 reviews,625,274,43,8,11,228,222,70,297,5,4.5,4.5,4.5,4.5,4.5
+Nine Zero Hotel - a Kimpton Hotel,4.5,"1,824 reviews","1,175",496,104,30,19,328,829,117,322,5,4.5,4.5,4.5,4,4.5
+The Westin Copley Place,4,"2,303 reviews","1,069",832,276,92,34,545,494,103,773,5,4.5,4.5,4.5,4,4.5
+Boston Harbor Hotel,4.5,"1,248 reviews",990,189,43,15,11,284,461,55,255,5,4.5,4.5,5,4.5,5
+Hotel Commonwealth,4.5,"2,934 reviews","2,363",438,81,39,13,908,851,146,584,5,5,5,5,4.5,5
+Revere Hotel Boston Common,4.5,"1,941 reviews","1,091",613,181,39,17,445,621,78,295,4.5,4.5,4.5,4.5,4,4.5
+Lenox Hotel,4.5,"2,560 reviews","1,879",509,107,45,20,630,986,142,381,5,4.5,4.5,5,4.5,5
+enVision Hotel Boston,4.5,354 reviews,244,81,21,7,1,102,101,28,62,4.5,4,4.5,4.5,4.5,5
+Sheraton Boston Hotel,4,528 reviews,194,222,74,19,19,106,127,17,201,4.5,4.5,4,4,4,4.5
+Hilton Boston Back Bay,4,"1,702 reviews",574,730,280,91,27,412,458,116,468,4.5,4,4,4,4,4.5
+"The Langham, Boston",4.5,"1,408 reviews",807,419,112,41,29,247,559,51,324,4.5,4.5,4.5,4.5,4,4.5
+W Boston,4,862 reviews,417,261,107,49,28,128,311,67,216,4.5,4.5,4,4.5,3.5,4.5
+InterContinental Boston,4.5,"1,894 reviews","1,135",526,130,56,47,382,665,127,474,4.5,4.5,4.5,4.5,4,4.5
+Residence Inn Boston Back Bay / Fenway,4.5,516 reviews,349,133,22,9,3,194,85,16,85,4.5,4.5,4.5,4.5,4.5,5
+Marriott's Custom House,4.5,559 reviews,378,146,11,12,12,216,179,15,45,5,4.5,4.5,4.5,4,4.5
+Harborside Inn,4,"1,033 reviews",388,459,98,47,41,87,544,74,113,5,4,4,4,4,4.5
+The Midtown Hotel,3.5,"1,367 reviews",246,601,335,123,62,390,324,105,235,4.5,4,3.5,4,4,4
+Holiday Inn Express Boston,4,535 reviews,133,254,98,27,23,129,194,38,78,4,3.5,4,4,4,4
+Omni Parker House,4,"4,446 reviews","2,025","1,485",559,243,134,918,"1,517",251,"1,002",5,4,4,4.5,4,4.5
+Boston Park Plaza,3.5,"4,185 reviews",736,"1,305",991,649,505,620,"1,235",288,"1,158",4.5,3.5,3,3.5,3.5,3.5
+The Liberty Hotel,4,742 reviews,394,211,77,28,32,126,263,28,173,4.5,4,4,4.5,3.5,4.5
+The Verb Hotel,4.5,242 reviews,174,56,9,1,2,41,75,18,31,4.5,4.5,4.5,4.5,4.5,5
+Millennium Bostonian Hotel,4,"1,016 reviews",437,376,115,55,33,187,414,59,156,5,4,4,4,4,4.5
+Loews Boston Hotel,4.5,764 reviews,474,214,58,15,3,172,273,22,150,4.5,4.5,4.5,4.5,4,4.5
+"The Fairmont Copley Plaza, Boston",4.5,"1,610 reviews",923,433,157,68,29,316,557,71,443,5,4.5,4,4.5,4,4.5
+Copley Square Hotel,4.5,"1,042 reviews",539,359,101,28,15,188,416,88,223,5,4.5,4,4.5,4,4.5
+Embassy Suites Boston Logan Airport,4,"1,316 reviews",481,514,216,65,40,426,306,76,301,4.5,4,4,4,4,4.5
+Taj Boston,4,"1,143 reviews",508,372,148,83,32,241,432,76,242,5,4.5,4,4,4,4.5
+Hyatt Regency Boston,4,"1,925 reviews",622,735,380,133,55,392,566,113,470,4.5,4,4,4,3.5,4.5
+W Boston,4,862 reviews,417,261,107,49,28,128,311,67,216,4.5,4.5,4,4.5,3.5,4.5
+DoubleTree by Hilton Hotel Boston - Downtown,4,466 reviews,203,176,60,19,8,112,110,19,143,4.5,4.5,4.5,4.5,4,4.5
+Colonnade Hotel,4.5,"2,057 reviews","1,274",511,160,63,49,471,614,103,523,5,4.5,4.5,4.5,4,4.5
+Chandler Inn,4,857 reviews,268,406,110,48,25,77,366,126,120,4.5,4,4,4,4,4.5
+Hotel 140,4,962 reviews,316,387,159,55,45,116,416,107,146,4.5,4,3.5,4,4,4.5
+The Inn at Longwood Medical,4,685 reviews,346,161,96,43,39,237,100,61,186,4.5,4,4,4.5,4,4
+Hilton Boston Logan Airport,4,"1,962 reviews",681,856,293,85,47,420,513,191,601,4.5,4.5,4,4,3.5,4.5
+Hilton Boston Downtown / Faneuil Hall,4,868 reviews,299,336,161,42,30,203,251,30,227,4.5,4,4,4,3.5,4.5
+"Battery Wharf Hotel, Boston Waterfront",4.5,862 reviews,559,196,74,24,9,174,406,51,128,4.5,4.5,4.5,4.5,4,4.5
+Boston Marriott Long Wharf,4,"1,282 reviews",604,466,137,49,26,430,342,38,252,5,4,4,4.5,3.5,4.5
+Onyx Hotel - a Kimpton Hotel,4,978 reviews,473,326,109,48,22,173,369,55,148,4.5,4.5,4,4.5,4,4.5
+Hampton Inn & Suites Boston Crosstown Center,4,565 reviews,202,213,94,34,22,173,94,56,161,4,3.5,4.5,4,4,4.5
+Holiday Inn Express Boston,4,535 reviews,133,254,98,27,23,129,194,38,78,4,3.5,4,4,4,4
+Four Seasons Hotel Boston,4.5,"1,032 reviews",810,140,47,22,13,292,256,47,317,5,5,4.5,5,4,5
+The Boxer Boston,4,364 reviews,171,133,44,8,8,57,143,18,55,4.5,4.5,4,4.5,4,4.5
+Residence Inn by Marriott Boston Harbor on Tudor Wharf,4.5,519 reviews,277,182,42,14,4,196,140,25,71,4.5,4.5,4.5,4.5,4,4.5
+DoubleTree Club by Hilton Hotel Boston Bayside,4,945 reviews,259,346,227,76,37,234,247,76,223,4,3.5,4,4,3.5,4
+Wyndham Boston Beacon Hill,4,"1,033 reviews",348,401,184,68,32,358,166,101,280,4.5,4,4,4,3.5,4.5
+BEST WESTERN University Hotel-Boston/Brighton,3.5,360 reviews,97,132,77,33,21,166,58,27,49,4,4,3.5,4,4,4
+Eliot Hotel,4.5,743 reviews,432,195,65,29,23,223,206,29,116,4.5,4.5,4.5,4.5,4,4.5
+The Westin Boston Waterfront,4,"1,615 reviews",584,634,266,85,46,234,383,106,723,4.5,3.5,4,4,3.5,4.5
+Club Quarters Boston,4,"1,049 reviews",414,419,133,49,34,111,353,112,239,4.5,4,4,4,4,4.5
+Copley House,3.5,379 reviews,109,137,60,32,41,80,112,37,67,4.5,3.5,3.5,3.5,4,3.5
+Renaissance Boston Waterfront Hotel,4,871 reviews,336,382,104,34,15,139,214,62,371,4.5,4,4.5,4.5,4,4.5
+DoubleTree Suites by Hilton Boston-Cambridge,4,"1,061 reviews",388,443,137,58,35,363,190,68,292,4,4,4,4,4,4.5
+Newbury Guest House,4,435 reviews,173,184,44,20,14,64,200,25,45,5,4.5,4,4,4,4.5
+BEST WESTERN PLUS Roundhouse Suites,3.5,716 reviews,179,305,129,69,34,257,179,17,104,4,3.5,4,4,4,4
+Charlesmark Hotel,4,753 reviews,329,301,71,34,18,44,304,94,140,5,4,4,4,4,4.5
+"Mandarin Oriental, Boston",4.5,405 reviews,311,61,20,7,6,78,114,30,131,5,5,4.5,4.5,4,5
+Holiday Inn Express Hotel & Suites Boston Garden,3.5,304 reviews,81,113,64,27,19,70,92,16,45,4.5,3.5,3.5,4,3.5,4
+Ames Boston Hotel,4.5,866 reviews,471,256,89,35,15,102,431,65,151,5,4.5,4.5,4.5,4,4.5
+The Ritz-Carlton Boston Common,4.5,513 reviews,299,111,51,39,13,124,120,19,143,4.5,4.5,4.5,4.5,4,4.5
+Courtyard by Marriott Boston Logan Airport,3.5,429 reviews,98,176,101,36,18,92,108,40,138,4,4,4,4,3.5,4
+The Inn At St Botolph,4.5,429 reviews,295,105,20,7,2,78,186,51,87,5,4.5,4.5,4.5,4.5,4.5
+Residence Inn Boston Downtown Seaport,4.5,232 reviews,166,52,6,7,1,64,69,4,52,4.5,4.5,5,4.5,4,5
+Courtyard Boston-South Boston,4,342 reviews,91,161,56,22,12,110,90,22,72,4,3.5,4.5,4,4,4.5
+Beacon Hill Hotel and Bistro,4,143 reviews,66,46,18,9,4,17,72,15,13,5,4,4,4,4,4.5
+Comfort Inn - Boston,3.5,287 reviews,47,94,85,34,27,69,91,17,41,3.5,3,3.5,3.5,3.5,4
+The Boston Common Hotel and Conference Center,3.5,440 reviews,45,157,146,59,33,66,159,37,79,4.5,3.5,3,3.5,3.5,3.5
+Boston Park Plaza,3.5,"4,186 reviews",736,"1,305",991,649,505,620,"1,235",288,"1,158",4.5,3.5,3,3.5,3.5,3.5
+Courtyard Boston Downtown,3,804 reviews,74,233,264,152,81,114,232,72,222,4,3,3,3.5,3,3.5
+Ramada Boston,3,917 reviews,129,235,256,171,126,294,195,83,162,3.5,3.5,3,3.5,3.5,3.5
+Milner Hotel,3,368 reviews,29,119,112,44,64,43,107,77,56,4.5,3.5,2.5,3.5,3.5,3.5
+Constitution Inn,3,410 reviews,56,131,114,60,49,103,112,32,42,3.5,3.5,3,3.5,3.5,3.5
+Days Hotel Boston,3,189 reviews,19,32,57,48,33,57,31,12,41,3.5,3,3,3,3,3
+Americas Best Value Inn,2.5,18 reviews,2,2,8,1,5,4,3,2,3,3,2.5,2.5,2.5,3,3

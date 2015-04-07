@@ -1,0 +1,38 @@
+HOTEL_NAME,STARS,TOTAL_REVIEWS,EXCELLENT,VERY_GOOD,AVERAGE,POOR,TERRIBLE,FAMILY,COUPLE,SOLO,BUSINESS,LOCATION,SLEEPQ,ROOM,SERVICE,VALUE,CLEANLINESS
+Disney's Animal Kingdom Lodge,4.5,"4,465 reviews","2,651","1,142",390,183,99,"2,624",804,34,59,4.5,4,4,4.5,4,4.5
+Hilton Grand Vacations Suites on International Drive,4.5,"2,777 reviews","1,752",710,180,72,63,"1,252",887,49,167,4.5,4.5,4.5,4.5,4.5,4.5
+Holiday Inn Orlando - Lake Buena Vista,4.5,"2,215 reviews","1,368",643,147,40,17,"1,013",508,50,209,4.5,4.5,4.5,4.5,4.5,4.5
+Disney's Wilderness Lodge,4.5,"2,577 reviews","1,495",736,218,93,35,"1,671",334,22,32,4.5,4.5,4,4.5,4,4.5
+Universal's Cabana Bay Beach Resort,4.5,"3,729 reviews","2,014","1,060",376,164,115,"2,307",632,45,56,4.5,4.5,4.5,4.5,4.5,4.5
+Walt Disney World Swan and Dolphin,4,"2,256 reviews",830,708,442,177,99,942,407,32,461,4.5,4,4,4,3.5,4
+The Point Orlando Resort,4.5,"3,084 reviews","2,082",762,182,34,24,"1,224","1,131",63,161,4.5,4.5,4.5,4.5,4.5,4.5
+Caribe Royale All Suite Hotel & Convention Center,4.5,349 reviews,193,95,32,15,14,138,38,4,84,4.5,4,4.5,4.5,4.5,4.5
+Disney's Caribbean Beach Resort,4,"4,560 reviews","1,347","1,700",920,394,199,"2,776",643,36,84,4,4,3.5,4,3.5,4
+Disney's Polynesian Village Resort,4,"2,000 reviews",968,565,261,146,60,"1,312",226,12,30,5,4,4,4,3.5,4
+Villas of Grand Cypress,4.5,864 reviews,720,89,27,20,8,320,224,18,105,5,4.5,4.5,5,4.5,4.5
+Disney's Port Orleans Resort - Riverside,4,"5,499 reviews","2,480","1,990",641,255,133,"3,471",845,54,60,4.5,4,4,4,4,4
+Marriott's Grande Vista,4.5,"2,554 reviews","1,387",759,235,112,61,"1,383",448,28,123,4.5,4.5,4.5,4,4.5,4.5
+Coco Key Hotel and Water Park Resort,4,"1,374 reviews",538,424,209,103,100,956,82,7,28,4.5,4,4,4,4,4
+Disney's Pop Century Resort,4,"6,815 reviews","2,536","2,891",970,283,135,"4,184","1,038",103,55,4.5,4,4,4,4.5,4.5
+Disney's Port Orleans Resort - French Quarter,4.5,"3,711 reviews","1,840","1,336",367,114,54,"2,169",759,47,18,4.5,4.5,4,4.5,4,4.5
+Wyndham Bonnet Creek Resort,4,"2,384 reviews","1,273",664,223,114,110,"1,642",278,18,55,4.5,4.5,4.5,4,4,4.5
+Hyatt Regency Grand Cypress,4.5,"2,614 reviews","1,496",734,212,108,64,"1,091",569,58,431,4.5,4.5,4.5,4.5,4,4.5
+Avanti International Resort,4,"1,846 reviews",871,631,243,52,49,639,468,36,105,4.5,4,4,4.5,4.5,4
+Floridays Resort Orlando,4.5,"5,381 reviews","3,643","1,268",333,93,44,"4,090",283,12,148,4.5,4.5,4.5,4.5,4.5,4.5
+Renaissance Orlando Resort at SeaWorld,4.5,"2,323 reviews","1,236",733,223,82,49,959,368,48,572,4.5,4.5,4.5,4.5,4,4.5
+Disney's Grand Floridian Resort & Spa,4.5,"2,497 reviews","1,444",606,267,118,62,"1,431",387,19,211,5,4.5,4,4.5,3.5,4.5
+Wyndham Lake Buena Vista,4,"5,475 reviews","2,243","1,609",948,414,261,"2,816",989,121,763,4.5,4,4,4,4,4
+Disney's All-Star Movies Resort,4,"3,891 reviews","1,235","1,565",670,263,158,"2,428",492,41,31,4,4,3.5,4,4,4
+Disney's Contemporary Resort,4,"1,809 reviews",693,592,292,148,85,"1,050",185,24,238,4.5,4,4,4,3.5,4
+Hard Rock Hotel at Universal Orlando,4.5,"4,782 reviews","2,638","1,330",471,227,116,"2,948",681,30,157,5,4.5,4,4.5,4,4.5
+Disney's All-Star Sports Resort,4,"2,526 reviews",771,"1,044",446,136,129,"1,493",354,46,30,4,4,3.5,4,4,4
+Wyndham Grand Orlando Resort Bonnet Creek,4.5,"3,096 reviews","1,700",844,380,116,56,"1,674",537,51,564,4.5,4.5,4.5,4.5,4,4.5
+Disney's Beach Club Resort,4,"1,792 reviews",944,530,181,88,49,"1,161",234,13,74,4.5,4.5,4,4.5,3.5,4.5
+Disney's Saratoga Springs Resort & Spa,4.5,"2,273 reviews","1,195",712,232,86,48,"1,467",377,18,21,4.5,4,4.5,4.5,4,4.5
+Hilton Orlando Bonnet Creek,4.5,"3,396 reviews","2,164",882,225,86,39,"1,528",626,66,741,4.5,4.5,4.5,4.5,4.5,4.5
+Bluegreen Fountains Resort,4,"1,031 reviews",530,288,115,56,42,692,129,4,25,4.5,4.5,4.5,4,4,4.5
+DoubleTree Suites by Hilton Hotel Orlando - Lake Buena Vista,4.5,653 reviews,338,207,65,34,9,392,88,9,90,4.5,4.5,4.5,4.5,4.5,4.5
+Hilton Orlando,4.5,"3,012 reviews","1,921",802,200,62,27,991,474,78,"1,086",4.5,4.5,4.5,4.5,4,4.5
+Disney's Coronado Springs Resort,3.5,"3,888 reviews","1,097","1,441",753,371,226,"1,822",734,77,593,4,4,3.5,4,3.5,4
+Disney's All-Star Music Resort,4,"3,262 reviews","1,058","1,346",596,161,101,"1,896",522,68,30,4,4,4,4,4,4
+Loews Royal Pacific Resort at Universal Orlando,4,"5,283 reviews","2,456","1,730",641,289,167,"3,132",862,39,304,5,4,4,4.5,3.5,4.5
