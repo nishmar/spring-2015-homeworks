@@ -11,16 +11,12 @@
 
 [Homework 3](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-3/3.Clustering.ipynb)
 
-<<<<<<< HEAD
 =======
 [Homework 4](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-4/4.Food-recipes.ipynb)
 
-<<<<<<< HEAD
->>>>>>> da343402504ae2aa1644b0271fbc8b5d63ff19ec
 =======
 [Homework 5](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-5/5.Hotels.ipynb)
 
->>>>>>> e5e92905471506b4c0cb119f1c639d2fe351fb8f
 ## License
 Copyright (C) 2015 Evimaria Terzi <evimaria@cs.bu.edu>
 
